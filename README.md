@@ -2,7 +2,7 @@
 
 # City-news - Your News Website
 
-This repository contains the source code of a news website called "Notícias Cidade". The website was developed using HTML and CSS.
+This repository contains the source code of a news website called "City-news". The website was developed using HTML and CSS.
 
 ## Project Structure
 
